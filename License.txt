@@ -1,0 +1,21 @@
+ - License - 
+
+NoC with LAG is distributed under the conditions of the GNU General 
+Purpose License (GPL)
+
+http://www.gnu.org/licenses/gpl-2.0.txt
+
+If your requirements are incompatible with the GNU GPL please 
+contact me.
+
+Korotkiy.Eugene@gmail.com
+
+ - Warranty - 
+
+NoC with LAG is provided without a warranty of any kind and no guarantees
+are provided regarding its correctness or fitness for a particular
+purpose.
+
+
+
+ 
